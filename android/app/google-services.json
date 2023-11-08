@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911150925492",
+    "project_id": "vending-machine-locator-app",
+    "storage_bucket": "vending-machine-locator-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911150925492:android:c2d449230168b3c3c8b9e1",
+        "android_client_info": {
+          "package_name": "com.example.sanitary_pad_vending_machine_locator_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_CbF_YA0bSYwjPYl2hFl8bLHsyMu_Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
